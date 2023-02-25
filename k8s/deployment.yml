@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: argocd-deployment
-  namespace: argocd-demo
+  namespace: dyutiargo
   labels:
     app: argocd
 spec:
