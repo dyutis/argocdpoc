@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: argocdpod
-        image: hello-world:latest
+        image: springio/gs-spring-boot-docker
         imagePullPolicy: Always
 
