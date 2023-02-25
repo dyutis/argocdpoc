@@ -19,6 +19,4 @@ spec:
       - name: argocdpod
         image: hello-world:latest
         imagePullPolicy: Always
-        ports:
-        - containerPort: 8080
 
