@@ -30,7 +30,7 @@ spec:
 
     syncOptions:
 
-    - CreateNamespace=false
+    - CreateNamespace=true
 
     automated:
 
