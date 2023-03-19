@@ -18,7 +18,7 @@ spec:
     
     targetRevision: HEAD
 
-    path: k8st
+    path: k8s
 
   destination: 
 
